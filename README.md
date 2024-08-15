@@ -1,2 +1,6 @@
-# final_project
-This is a repo for the final project.
+# Student Preformance Project
+## Overview
+## Tasks
+## Ethical Data Use Consideration
+## Sources and Citation
+
