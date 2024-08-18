@@ -12,6 +12,10 @@
     - [Final Presentation](https://docs.google.com/presentation/d/1HxGfKVzZ7iK8QNVYUABa_aRD2WZlGHnuUSw3MrECL4o/edit?pli=1#slide=id.g7818f8d3bf_2_972)
 ## Ethical Data Use Consideration
 - In our pursuit of developing a model that would allow us to make accurate predictions of student success, we made sure to follow best practices regarding ethical use of data. We made sure to utilize data that was cleaned of any personal identifying information, the date set came from a reputable source, and did not negatively impact any individuals involved in the collection of this data.
+## Contributors
+- April Johnson
+- Jeremy Morris
+- Benjamin Burwinkel
 ## Sources and Citation
 - Kharoua, R. E. (2023). Students performance dataset. Kaggle. https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/data
 - OpenAI. (2024). ChatGPT (Version 4.0) [Large language model]. https://chat.openai.com/
